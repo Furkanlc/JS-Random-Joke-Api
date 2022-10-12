@@ -1,0 +1,14 @@
+{
+  "name": "joke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "style.js",
+  "scripts": {
+    "compile:sass": "node-sass  sass/main.scss css/main.css -w"
+  },
+  "author": "furkanglc",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
